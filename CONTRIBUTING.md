@@ -48,13 +48,6 @@ Your contributions help keep this list useful, up-to-date, and relevant for the 
 
 ---
 
-## 🙏 Code of Conduct
-
-Please be respectful and considerate.  
-By participating, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md) (if available) and GitHub’s community guidelines.
-
----
-
 ## 💡 Tips
 
 - Check for existing issues or PRs before submitting a new one.
