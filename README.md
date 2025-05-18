@@ -189,6 +189,25 @@
 
 ---
 
+## 💬 Top Open Source Chat & Workspace Messaging Platforms
+
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) — The leading open source team chat platform, Slack alternative, with rich integrations and self-hosting.
+- [Mattermost](https://github.com/mattermost/mattermost) — Secure, self-hosted Slack alternative for teams and enterprises.
+- [Matrix (Synapse)](https://github.com/matrix-org/synapse) — Matrix protocol reference server, a decentralized, federated, end-to-end encrypted messaging network.
+- [Element](https://github.com/vector-im/element-web) — The flagship Matrix client, formerly Riot, web and desktop app.
+- [Telegram (Unofficial, open clients)](https://github.com/telegramdesktop/tdesktop) — Unofficial open source desktop client for Telegram.
+- [Wire](https://github.com/wireapp/wire) — Secure, cross-platform team collaboration platform.
+- [Zulip](https://github.com/zulip/zulip) — Powerful threaded open source group chat, great for remote teams.
+- [Rocket.Chat.ReactNative](https://github.com/RocketChat/Rocket.Chat.ReactNative) — Mobile client for Rocket.Chat.
+- [Jitsi Meet](https://github.com/jitsi/jitsi-meet) — Secure, scalable open source video chat and conferencing platform.
+- [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) — Private, decentralized, and serverless messenger.
+- [Conduit](https://gitlab.com/famedly/conduit) — Lightweight Matrix homeserver written in Rust.
+- [Openfire](https://github.com/igniterealtime/Openfire) — Real-time collaboration server based on XMPP protocol.
+- [SOGo](https://github.com/Alinto/sogo) — Groupware server with calendar, contacts, and chat.
+- [Open Source WhatsApp Clients](https://github.com/adiwajshing/Baileys) — Unofficial WhatsApp Web API for Node.js.
+
+---
+
 ## 🚀 Want More? Explore Further!
 
 - 🌟 [GitHub Trending](https://github.com/trending) — See what’s hot on GitHub right now.
