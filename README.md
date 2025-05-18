@@ -88,6 +88,7 @@
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) — Kubernetes curated resources.
 - [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) — CI/CD resources and tools.
 - [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) — Curated list for Terraform.
+- [md8-habibullah/ansible](https://github.com/md8-habibullah/ansible) — Ansible playbooks, guides, and resources. <!-- ✨ ADDED -->
 
 ---
 
@@ -132,6 +133,7 @@
 - [Project-Awesome.org](https://project-awesome.org/) — A categorized web interface for awesome lists.
 - [awesome.facts.dev](https://awesome.facts.dev/) — The most popular awesome lists on GitHub, ranked and categorized.
 - [awesome-open-source](https://awesomeopensource.com/) — Search, curate, and share the best open-source projects.
+- [top-github-repositories-which-everyone-should-look](https://github.com/md8-habibullah/top-github-repositories-which-everyone-should-look) — A handpicked list of top GitHub repositories everyone should look at. <!-- ✨ ADDED -->
 
 ---
 
@@ -147,6 +149,7 @@
 - [fzf](https://github.com/junegunn/fzf) — A command-line fuzzy finder.
 - [tmux](https://github.com/tmux/tmux) — Terminal multiplexer.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) — Fast command-line search tool.
+- [shields](https://github.com/badges/shields) — Quality metadata badges for open source projects. <!-- ✨ ADDED -->
 
 ---
 
@@ -243,5 +246,3 @@ If you found this helpful, please star ⭐, fork 🍴, and share with your frien
 > _Maintained by [md8-habibullah](https://github.com/md8-habibullah)_
 
 ---
-
-> _Feel free to fork, suggest, or contribute to this list!_
