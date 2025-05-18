@@ -1,5 +1,4 @@
-
-# 🌟 Top 100+ Open Source GitHub Repositories (Curated by Category)
+# 🌟 Top 150+ Open Source GitHub Repositories (Curated by Category)
 
 A curated, categorized, and regularly updated list of must-see open source repositories for developers, students, and tech enthusiasts.
 
@@ -14,6 +13,11 @@ A curated, categorized, and regularly updated list of must-see open source repos
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) — Essential tech interview preparation.
 - [interview-prep](https://github.com/sudheerj/interview-prep) — Everything you need to nail your tech interviews.
 - [public-apis](https://github.com/public-apis/public-apis) — List of free public APIs for development.
+- [Machine-Learning-Roadmap](https://github.com/dair-ai/Machine-Learning-Roadmap) — Roadmap to becoming a machine learning expert.
+- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) — Frontend development resources and best practices.
+- [web-developer-resources](https://github.com/markodenic/web-development-resources) — Comprehensive web development resources.
+- [data-science-resources](https://github.com/krzjoa/data-science-resources) — Data science learning path and resources.
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) — Free programming books for all languages and platforms.
 
 ---
 
@@ -28,6 +32,11 @@ A curated, categorized, and regularly updated list of must-see open source repos
 - [next.js](https://github.com/vercel/next.js) — The React framework for production.
 - [nuxt](https://github.com/nuxt/nuxt) — The Intuitive Vue Framework.
 - [awesome-react](https://github.com/enaqx/awesome-react) — Curated list of React resources.
+- [awesome-vue](https://github.com/vuejs/awesome-vue) — Curated resources for Vue.js devs.
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) — Node.js best practices.
+- [storybook](https://github.com/storybookjs/storybook) — UI component explorer for frontend devs.
+- [css-protips](https://github.com/AllThingsSmitty/css-protips) — Tips to improve your CSS skills.
+- [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) — Resources for Tailwind CSS.
 
 ---
 
@@ -37,6 +46,8 @@ A curated, categorized, and regularly updated list of must-see open source repos
 - [Flutter](https://github.com/flutter/flutter) — Beautiful native apps in record time.
 - [React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) — Curated list of open source React Native apps.
 - [android-architecture](https://github.com/googlesamples/android-architecture) — Android app architecture samples.
+- [awesome-flutter](https://github.com/Solido/awesome-flutter) — Curated Flutter libraries, tools, tutorials.
+- [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) — Android UI libraries.
 
 ---
 
@@ -50,6 +61,10 @@ A curated, categorized, and regularly updated list of must-see open source repos
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) — Book series diving deep into JS core mechanisms.
 - [rust](https://github.com/rust-lang/rust) — Empowering everyone to build reliable and efficient software.
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) — Curated Rust libraries and resources.
+- [python-patterns](https://github.com/faif/python-patterns) — Patterns in Python.
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp) — C++ resources and libraries.
+- [awesome-java](https://github.com/akullpp/awesome-java) — Curated list of Java frameworks/libraries.
+- [awesome-typescript](https://github.com/dzharii/awesome-typescript) — TypeScript resources and tools.
 
 ---
 
@@ -63,6 +78,10 @@ A curated, categorized, and regularly updated list of must-see open source repos
 - [ansible](https://github.com/ansible/ansible) — Ansible is a radically simple IT automation platform.
 - [terraform](https://github.com/hashicorp/terraform) — Infrastructure as Code.
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) — A curated list of Docker resources.
+- [prometheus](https://github.com/prometheus/prometheus) — Monitoring system & time series database.
+- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) — Kubernetes curated resources.
+- [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) — CI/CD resources and tools.
+- [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) — Curated list for Terraform.
 
 ---
 
@@ -76,6 +95,10 @@ A curated, categorized, and regularly updated list of must-see open source repos
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) — Curated machine learning resources.
 - [Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) — 10 weeks, 20 lessons, Data Science for all!
 - [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) — Data science interview questions and answers.
+- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) — Deep learning resources.
+- [awesome-data-science](https://github.com/academic/awesome-datascience) — Data science resources.
+- [awesome-nlp](https://github.com/keon/awesome-nlp) — Natural Language Processing resources.
+- [awesome-ai](https://github.com/huaweinoah/awesome-ai) — Artificial Intelligence resources.
 
 ---
 
@@ -86,6 +109,8 @@ A curated, categorized, and regularly updated list of must-see open source repos
 - [awesome-system-design](https://github.com/madd86/awesome-system-design) — Curated list of system design materials.
 - [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) — Design patterns explained simply.
 - [awesome-microservices](https://github.com/mfornos/awesome-microservices) — Curated list on Microservices.
+- [awesome-architecture](https://github.com/pavel-shirshov/awesome-architecture) — Software architecture resources.
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) — High scalability, availability, and stability patterns.
 
 ---
 
@@ -93,9 +118,14 @@ A curated, categorized, and regularly updated list of must-see open source repos
 
 - [awesome](https://github.com/sindresorhus/awesome) — The most awesome curated lists on GitHub.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) — A curated list of awesome awesomeness.
+- [best-of-lists](https://github.com/best-of-lists/best-of) — Discover awesome open-source projects, ranked by quality and updated weekly.
+- [awesome-lists](https://github.com/t3chnoboy/awesome-lists) — List of awesome lists.
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) — Useful programming cheatsheets.
 - [awesome-design](https://github.com/gztchan/awesome-design) — Curated list of design resources.
 - [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) — Lists of interview questions by technology.
+- [Project-Awesome.org](https://project-awesome.org/) — A categorized web interface for awesome lists.
+- [awesome.facts.dev](https://awesome.facts.dev/) — The most popular awesome lists on GitHub, ranked and categorized.
+- [awesome-open-source](https://awesomeopensource.com/) — Search, curate, and share the best open-source projects.
 
 ---
 
@@ -109,6 +139,8 @@ A curated, categorized, and regularly updated list of must-see open source repos
 - [homebrew](https://github.com/Homebrew/brew) — The missing package manager for macOS (or Linux).
 - [nvm](https://github.com/nvm-sh/nvm) — Node version manager.
 - [fzf](https://github.com/junegunn/fzf) — A command-line fuzzy finder.
+- [tmux](https://github.com/tmux/tmux) — Terminal multiplexer.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) — Fast command-line search tool.
 
 ---
 
@@ -119,6 +151,7 @@ A curated, categorized, and regularly updated list of must-see open source repos
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss) — Utility-first CSS framework.
 - [bootstrap](https://github.com/twbs/bootstrap) — The most popular HTML, CSS, and JS library.
 - [fontawesome](https://github.com/FortAwesome/Font-Awesome) — The iconic font and CSS toolkit.
+- [awesome-css](https://github.com/awesome-css-group/awesome-css) — CSS frameworks, tools, and resources.
 
 ---
 
@@ -128,6 +161,7 @@ A curated, categorized, and regularly updated list of must-see open source repos
 - [d3](https://github.com/d3/d3) — Bring data to life with SVG, Canvas and HTML.
 - [chart.js](https://github.com/chartjs/Chart.js) — Simple yet flexible JavaScript charting.
 - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) — Curated list of data visualization libraries.
+- [echarts](https://github.com/apache/echarts) — Powerful visualization library for browser.
 
 ---
 
@@ -135,6 +169,7 @@ A curated, categorized, and regularly updated list of must-see open source repos
 
 - [tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) — Tech jobs with relocation.
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) — A curated list of engineering blogs.
+- [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) — Curated list of remote jobs.
 
 ---
 
@@ -144,12 +179,25 @@ A curated, categorized, and regularly updated list of must-see open source repos
 - [what-happens-when](https://github.com/alex/what-happens-when) — What happens when you type a URL into your browser.
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) — Tutorials on building your own DB, Shell, etc.
 - [awesome-hacker-news](https://github.com/HackerNews/API) — Everything about Hacker News.
+- [movies-for-hackers](https://github.com/k4m4/movies-for-hackers) — Movies every hacker should watch.
 
 ---
 
-# ⭐️ Want More?
+## 🚀 Want More? Explore Further!
 
-- See trending projects on [github.com/trending](https://github.com/trending)
+- 🌟 [GitHub Trending](https://github.com/trending) — See what’s hot on GitHub right now.
+- 🥇 [best-of-lists](https://github.com/best-of-lists) — Discover curated “best-of” open-source projects by category.
+- 🏅 [Project-Awesome.org](https://project-awesome.org/) — Browse the best “Awesome” lists in a user-friendly way.
+- 💼 [Awesome Open Source](https://awesomeopensource.com/) — Find, curate, and share the best open-source projects.
+- 🔍 [GitHub Explore](https://github.com/explore) — Personalized recommendations for projects, topics, and collections.
+- 📝 [Awesome Lists](https://github.com/sindresorhus/awesome) — The motherlode of curated “awesome” lists.
+- 🏆 [GitHub Stars](https://stars.github.com/) — See what top developers are starring.
+- 📝 [GitHub Topics](https://github.com/topics) — Browse open source projects by topics like AI, blockchain, web, and more.
+- 🤖 [GitHub Copilot](https://github.com/features/copilot) — Your AI pair programmer (for code, not repo discovery!)
+- 📰 [Open Source Insights](https://deps.dev/) — Analyze and compare open source packages.
+- 💬 [Reddit r/opensource](https://www.reddit.com/r/opensource/) — Community-driven open source recommendations.
+- 🧑‍💻 [Hacker News “Show HN”](https://news.ycombinator.com/show) — Trending open source launches.
+- 📰 [LibHunt - Curated lists](https://www.libhunt.com/topic/curated-list) — Trending and best open source project lists.
 
 ---
 
