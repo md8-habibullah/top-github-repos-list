@@ -1,6 +1,12 @@
 # 🌟 Top 150+ Open Source GitHub Repositories (Curated by Category)
 
-A curated, categorized, and regularly updated list of must-see open source repositories for developers, students, and tech enthusiasts.
+[![GitHub stars](https://img.shields.io/github/stars/md8-habibullah/top-github-repos-list?style=social)](https://github.com/md8-habibullah/top-github-repos-list/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/md8-habibullah/top-github-repos-list?style=social)](https://github.com/md8-habibullah/top-github-repos-list/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/md8-habibullah/top-github-repos-list?style=social)](https://github.com/md8-habibullah/top-github-repos-list/watchers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/md8-habibullah/top-github-repos-list)](https://github.com/md8-habibullah/top-github-repos-list/commits/main)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
+
+> **A curated, categorized, and regularly updated list of must-see open source repositories for developers, students, and tech enthusiasts.**
 
 ---
 
@@ -198,6 +204,24 @@ A curated, categorized, and regularly updated list of must-see open source repos
 - 💬 [Reddit r/opensource](https://www.reddit.com/r/opensource/) — Community-driven open source recommendations.
 - 🧑‍💻 [Hacker News “Show HN”](https://news.ycombinator.com/show) — Trending open source launches.
 - 📰 [LibHunt - Curated lists](https://www.libhunt.com/topic/curated-list) — Trending and best open source project lists.
+
+---
+
+## 🤝 Contributing
+
+Want to make this list even better? See [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request!
+- Suggest new repos
+- Fix errors or descriptions
+- Add new categories
+
+---
+
+## 📣 Share This List
+
+If you found this helpful, please star ⭐, fork 🍴, and share with your friends and communities!
+
+> _Feel free to fork, suggest, or contribute to this list!_  
+> _Maintained by [md8-habibullah](https://github.com/md8-habibullah)_
 
 ---
 
