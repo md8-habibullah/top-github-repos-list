@@ -154,6 +154,20 @@
 
 ---
 
+### 🏆 GitHub Profile & Achievement Showcases
+
+- [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - Show off your GitHub trophies on your profile.
+- [profile-readme-stats](https://github.com/anuraghazra/github-readme-stats) - Dynamic stats for your GitHub profile README.
+
+---
+
+### 🎨 Themes & Customizations
+
+- [plymouth-themes](https://github.com/adi1090x/plymouth-themes) - Collection of beautiful Linux boot splash themes.
+- [awesome-terminal-fonts](https://github.com/ryanoasis/nerd-fonts) - Fonts patched with a high number of glyphs/icons.
+
+---
+
 ## 🎨 Design, Frontend & UX
 
 - [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) — Curated list of design resources.
