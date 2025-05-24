@@ -226,6 +226,22 @@
 
 ---
 
+## 🐧 Linux & Command Line Tools
+
+A curated list of repositories to master Linux, shell scripting, and command-line tools.
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) — A comprehensive collection of tips and best practices for using the command line effectively.
+- [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) — An open-source eBook featuring 101 essential Linux commands.
+- [kodekloudhub/linux-basics-course](https://github.com/kodekloudhub/linux-basics-course) — A structured course covering Linux basics, including working with the shell and shell scripting.
+- [danielmapar/LinuxCommandLine](https://github.com/danielmapar/LinuxCommandLine) — Provides a collection of basic Linux commands and insights into the Linux file system hierarchy.
+- [NaiveNeuron/TermAdventure](https://github.com/NaiveNeuron/TermAdventure) — An interactive learning tool that teaches UNIX command-line skills through a text adventure game format.
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) — Simplified and community-driven man pages that provide concise examples for command-line tools.
+- [krother/bash_tutorial](https://github.com/krother/bash_tutorial) — This tutorial helps you become familiar with bash, the Linux command line, through hands-on exercises.
+- [nuitrcs/commandlineworkshop](https://github.com/nuitrcs/commandlineworkshop) — A workshop that introduces the basics of the bash shell, covering essential commands and navigation techniques.
+- [labex-labs/linux-free-tutorials](https://github.com/labex-labs/linux-free-tutorials) — A collection of 80 free tutorials for Linux, offering a comprehensive learning path.
+- [get543/linux-beginner-guide](https://github.com/get543/linux-beginner-guide) — An ultimate guide for beginner Linux users, covering keyboard shortcuts and basic commands.
+
+---
+
 ## 🚀 Want More? Explore Further!
 
 - 🌟 [GitHub Trending](https://github.com/trending) — See what’s hot on GitHub right now.
