@@ -229,6 +229,7 @@
 ## 🐧 Linux & Command Line Tools
 
 A curated list of repositories to master Linux, shell scripting, and command-line tools.
+
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) — A comprehensive collection of tips and best practices for using the command line effectively.
 - [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) — An open-source eBook featuring 101 essential Linux commands.
 - [kodekloudhub/linux-basics-course](https://github.com/kodekloudhub/linux-basics-course) — A structured course covering Linux basics, including working with the shell and shell scripting.
@@ -241,6 +242,31 @@ A curated list of repositories to master Linux, shell scripting, and command-lin
 - [get543/linux-beginner-guide](https://github.com/get543/linux-beginner-guide) — An ultimate guide for beginner Linux users, covering keyboard shortcuts and basic commands.
 
 ---
+
+## 🐚 Shell Customization Tools
+
+### 🔧 Shell Frameworks & Configurations
+
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) – A delightful community-driven framework for managing your Zsh configuration.
+- [Bash-it](https://github.com/Bash-it/bash-it) – A collection of community Bash commands and scripts.
+- [Prezto](https://github.com/sorin-ionescu/prezto) – A speedy Zsh configuration framework.
+- [md8-habibullah/awesome-shell](https://github.com/md8-habibullah/awesome-shell) – A curated list focusing on shell style and customization.
+
+### 🎨 Prompt Themes & Enhancements
+
+- [Powerlevel10k](https://github.com/romkatv/powerlevel10k) – A fast reimplementation of Powerlevel9k ZSH theme.
+- [Starship](https://starship.rs/) – A minimal, blazing-fast, and customizable prompt for any shell.
+
+### 🧩 Plugins & Extensions
+
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) – Fish-like autosuggestions for Zsh.
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) – Syntax highlighting for the Zsh shell.
+- [fzf](https://github.com/junegunn/fzf) – A general-purpose command-line fuzzy finder.
+
+### 🖼️ Terminal Aesthetics & Information
+
+- [Neofetch](https://github.com/dylanaraps/neofetch) – A command-line system information tool.
+- [Fastfetch](https://github.com/LinusDierheimer/fastfetch) – A fast, customizable system info script.
 
 ## 🚀 Want More? Explore Further!
 
@@ -263,6 +289,7 @@ A curated list of repositories to master Linux, shell scripting, and command-lin
 ## 🤝 Contributing
 
 Want to make this list even better? See [CONTRIBUTING.md](CONTRIBUTING.md) and open a pull request!
+
 - Suggest new repos
 - Fix errors or descriptions
 - Add new categories
