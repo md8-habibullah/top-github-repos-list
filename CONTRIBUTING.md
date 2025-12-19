@@ -1,60 +1,51 @@
-# Contributing to Top 150+ Open Source GitHub Repositories (Curated by Category)
+# Contributing to Top 200+ Open Source GitHub Repositories 🚀
 
-Thank you for your interest in contributing! 🚀  
-Your contributions help keep this list useful, up-to-date, and relevant for the open source community.
+First off, thank you for considering a contribution! It’s people like you who make this list a world-class resource for the developer community.
 
 ---
 
-## 📋 How to Contribute
+## 📋 Ways to Contribute
 
-1. **Star the Repo!**
-   - Please consider starring ⭐ this repository if you find it useful!
-
-2. **Open an Issue**
-   - If you spot an error, want to suggest a new repo, or have a question, [open an issue](https://github.com/md8-habibullah/top-github-repos-list/issues).
-   - Use descriptive titles and provide as much context as possible.
-
-3. **Submit a Pull Request (PR)**
-   - Fork this repository.
-   - Create a new branch (`git checkout -b feature/your-feature-name`).
-   - Make your edits and commit them (`git commit -m 'Add: Description of change'`).
-   - Push to your fork (`git push origin feature/your-feature-name`).
-   - Open a Pull Request with a clear description of your changes.
+You can contribute in several ways:
+1.  **Suggest a New Repo:** Found something "awesome" that's missing? Add it!
+2.  **Fix Existing Links:** Report or fix broken links and outdated descriptions.
+3.  **Improve Documentation:** Refine our categories or improve the README layout.
+4.  **Star & Share:** If you find this list useful, please star ⭐ it to help others find it.
 
 ---
 
 ## 📝 Contribution Guidelines
 
-- **Additions:**
-  - Add new repositories in the appropriate category, using the existing format.
-  - Provide a short, clear description for each new entry.
-  - Only include high-quality, well-maintained, and popular repositories.
-  - Avoid duplicates.
+To maintain the high quality of this list, please ensure your Pull Request (PR) follows these rules:
 
-- **Updates:**
-  - Fix typos, improve descriptions, or update outdated links.
-  - Move repositories to a more appropriate category if needed.
+### 1. Repository Quality
+- **High Quality Only:** We only include repos that are well-maintained, documented, and popular (typically 500+ stars, though exceptions are made for exceptional new tools).
+- **No Duplicates:** Please search the README to ensure the repo isn't already listed.
+- **Categorization:** Place the repo in the most relevant section. If a new category is needed, please suggest it in an issue first.
 
-- **Removals:**
-  - If a repository is deprecated, unmaintained, or no longer relevant, propose its removal via an issue or PR.
+### 2. Formatting (Strict)
+Follow the existing format exactly to keep the list clean:
+`- [top-github-repos-list](https://github.com/md8-habibullah/top-github-repos-list.git) — Short, clear description (ends with a period).`
 
-- **Formatting:**
-  - Keep the markdown style consistent.
-  - Use alphabetic or logical order within each category.
-  - Follow the existing bullet format:
-    ```
-    - [repo-name](https://github.com/owner/repo-name) — Short description.
-    ```
+### 3. Commit Messages
+Use clear, descriptive commit messages, for example:
+- `Add: [Repo Name] to [Category]`
+- `Fix: Updated broken link for [Repo Name]`
 
 ---
 
-## 💡 Tips
+## 🚀 The Pull Request Process
 
-- Check for existing issues or PRs before submitting a new one.
-- If your PR adds a new repo, make sure it isn’t already listed!
-- For large or structural changes, please discuss via issue before submitting a PR.
+1.  **Fork** the repository and create your branch from `main`.
+2.  **Add** your change following the formatting rules above.
+3.  **Test** the link to ensure it works.
+4.  **Submit** the PR with a clear description of what you added and why it’s valuable.
 
 ---
+
+## 🛡️ Code of Conduct
+
+By participating in this project, you agree to abide by our standards of professional and respectful communication. We are committed to making this a welcoming environment for everyone.
 
 Thank you for helping make this project awesome!  
 — *md8-habibullah*

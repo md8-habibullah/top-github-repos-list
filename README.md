@@ -1,4 +1,4 @@
-# 🌟 Top 150+ Open Source GitHub Repositories (Curated by Category)
+# 🌟 Top 200+ Open Source GitHub Repositories (Curated by Category)
 
 [![GitHub stars](https://img.shields.io/github/stars/md8-habibullah/top-github-repos-list?style=social)](https://github.com/md8-habibullah/top-github-repos-list/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/md8-habibullah/top-github-repos-list?style=social)](https://github.com/md8-habibullah/top-github-repos-list/network/members)
@@ -7,6 +7,44 @@
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
 > **A curated, categorized, and regularly updated list of must-see open source repositories for developers, students, and tech enthusiasts.**
+
+---
+
+## 📍 Table of Contents
+
+* [🚀 Roadmaps & Learning Paths](#-roadmaps--learning-paths)
+* [🤖 AI & LLM Engineering](#-ai--llm-engineering-the-new-essential)
+* [🌐 Web Development](#-web-development)
+* [📱 Mobile Development](#-mobile-development)
+* [👨‍💻 Programming Languages & Algorithms](#-programming-languages--algorithms)
+* [🧪 Data Science & Machine Learning](#-data-science--machine-learning)
+* [⚙️ Advanced DevOps & Cloud Native](#-advanced-devops--cloud-native-infrastructure-️)
+* [🛡️ Cybersecurity & Pentesting](#-cybersecurity--pentesting-your-specialty)
+    * [🎮 Command & Control (C2)](#-command--control-c2--remote-access)
+    * [🤖 Botnets & AI Red Teaming](#-botnets-agents--ai-red-teaming)
+    * [📡 Network Monitoring & Recon](#-network-monitoring--hidden-recon)
+    * [🕵️ Advanced OSINT & Leaks](#-advanced-osint--data-leaks)
+    * [💣 Exploitation & Payloads](#-exploitation--payload-heavies)
+* [🏗️ System Design & Architecture](#-system-design--architecture)
+* [📚 Awesome Lists & Resources](#-awesome-lists--resources)
+* [🛠️ Developer Tools & Utilities](#-developer-tools--utilities)
+* [🏆 GitHub Profile & Achievements](#-github-profile--achievement-showcases)
+* [🎨 Themes & Customizations](#-themes--customizations)
+* [🎨 Design, Frontend & UX](#-design-frontend--ux)
+* [📊 Visualization & Data](#-visualization-data--charts)
+* [💼 Job Search & Career](#-job-search--career)
+* [🗃️ Miscellaneous / General](#-miscellaneous--general)
+* [💬 Chat & Messaging Platforms](#-top-open-source-chat--workspace-messaging-platforms)
+* [🐧 Linux & Command Line Tools](#-linux--command-line-tools)
+    * [🎓 Mastering Fundamentals](#-mastering-the-fundamentals)
+    * [🚀 Modern Unix Power Tools](#-modern-unix-power-tools-rust-powered)
+* [🐚 Shell Customization & Terminal](#-shell-customization--terminal-experience)
+    * [💻 Terminal Emulators](#-terminal-emulators-the-high-performance-tier)
+    * [🔧 Shell Frameworks](#-shell-frameworks--prompt-enhancements)
+    * [🖼️ Aesthetics & Info](#-terminal-information--aesthetics)
+* [🚀 Explore Further](#-want-more-explore-further)
+* [🤝 Contributing](#-contributing)
+* [📣 Share This List](#-share-this-list)
 
 ---
 
@@ -27,8 +65,25 @@
 
 ---
 
+## 🤖 AI & LLM Engineering (The "New" Essential)
+
+This is currently the most starred category on GitHub.
+
+* [Ollama](https://github.com/ollama/ollama) — Run large language models (Llama 3.2, Mistral) locally.
+* [LangChain](https://github.com/langchain-ai/langchain) — The standard framework for building LLM-powered applications.
+* [Hugging Face Transformers](https://github.com/huggingface/transformers) — State-of-the-art machine learning for Pytorch, TensorFlow, and JAX.
+* [Claude Code](https://github.com/anthropics/claude-code) — Agentic coding tool that lives in your terminal and understands your entire codebase.
+* [Browser-use](https://github.com/browser-use/browser-use) — Open-source AI for web automation (letting AI "use" the browser).
+* [Aider](https://www.google.com/search?q=https://github.com/aider-chat/aider) — AI pair programming in your terminal.
+
+---
+
 ## 🌐 Web Development
 
+- [shadcn/ui](https://github.com/shadcn-ui/ui) — Beautifully designed components built with Radix UI and Tailwind CSS.
+- [Lucide](https://github.com/lucide-icons/lucide) — Beautiful & consistent icons, a community fork of Feather Icons.
+- [T3 Stack](https://github.com/t3-oss/create-t3-app) — The best way to start a full-stack, typesafe Next.js app.
+- [Directus](https://github.com/directus/directus) — The modern data platform that turns any SQL database into an API and Admin UI.
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — Learn to code for free.
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) — Short JavaScript code snippets.
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) — Algorithms and data structures in JS.
@@ -43,7 +98,7 @@
 - [storybook](https://github.com/storybookjs/storybook) — UI component explorer for frontend devs.
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) — Tips to improve your CSS skills.
 - [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) — Resources for Tailwind CSS.
-- [md8-habibullah/jsdelivr](https://github.com/md8-habibullah/jsdelivr) — A free CDN for open source, npm, GitHub, and more. <!-- ✨ ADDED -->
+- [md8-habibullah/jsdelivr](https://github.com/md8-habibullah/jsdelivr) — A free CDN for open source, npm, GitHub, and more.
 
 ---
 
@@ -75,24 +130,6 @@
 
 ---
 
-## ⚙️ DevOps & Infrastructure
-
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) — List of free services for developers.
-- [devops-exercises](https://github.com/bregman-arie/devops-exercises) — DevOps and SRE interview questions and exercises.
-- [kubernetes](https://github.com/kubernetes/kubernetes) — Production-Grade Container Scheduling and Management.
-- [docker](https://github.com/docker/docker-ce) — Docker Community Edition.
-- [awesome-devops](https://github.com/iamdevop/awesome-devops) — Curated DevOps resources.
-- [ansible](https://github.com/ansible/ansible) — Ansible is a radically simple IT automation platform.
-- [terraform](https://github.com/hashicorp/terraform) — Infrastructure as Code.
-- [awesome-docker](https://github.com/veggiemonk/awesome-docker) — A curated list of Docker resources.
-- [prometheus](https://github.com/prometheus/prometheus) — Monitoring system & time series database.
-- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) — Kubernetes curated resources.
-- [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) — CI/CD resources and tools.
-- [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) — Curated list for Terraform.
-- [md8-habibullah/ansible](https://github.com/md8-habibullah/ansible) — Ansible playbooks, guides, and resources.
-
----
-
 ## 🧪 Data Science & Machine Learning
 
 - [tensorflow](https://github.com/tensorflow/tensorflow) — Open Source Machine Learning Framework.
@@ -107,6 +144,76 @@
 - [awesome-data-science](https://github.com/academic/awesome-datascience) — Data science resources.
 - [awesome-nlp](https://github.com/keon/awesome-nlp) — Natural Language Processing resources.
 - [awesome-ai](https://github.com/huaweinoah/awesome-ai) — Artificial Intelligence resources.
+
+---
+
+## ⚙️ Advanced DevOps & Cloud Native Infrastructure ☁️
+
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) — List of free services for developers.
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises) — DevOps and SRE interview questions and exercises.
+- [kubernetes](https://github.com/kubernetes/kubernetes) — Production-Grade Container Scheduling and Management.
+- [docker](https://github.com/docker/docker-ce) — Docker Community Edition.
+- [awesome-devops](https://github.com/iamdevop/awesome-devops) — Curated DevOps resources.
+- [ansible](https://github.com/ansible/ansible) — Ansible is a radically simple IT automation platform.
+- [terraform](https://github.com/hashicorp/terraform) — Infrastructure as Code.
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) — A curated list of Docker resources.
+- [prometheus](https://github.com/prometheus/prometheus) — Monitoring system & time series database.
+- [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) — Kubernetes curated resources.
+- [awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) — CI/CD resources and tools.
+- [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) — Curated list for Terraform.
+- [md8-habibullah/ansible](https://github.com/md8-habibullah/ansible) — Ansible playbooks, guides, and resources.
+- [Coolify](https://github.com/coollabsio/coolify) — An open-source, self-hosted alternative to Heroku/Netlify/Vercel.
+- [Argo CD](https://github.com/argoproj/argo-cd) — Declarative, GitOps continuous delivery tool for Kubernetes.
+- [LocalStack](https://github.com/localstack/localstack) — A fully functional local AWS cloud stack.
+- [Grafana](https://github.com/grafana/grafana) — The open observability platform for analytics and monitoring.
+- [Pulumi](https://github.com/pulumi/pulumi) — Infrastructure as Code using real programming languages (TS, Python, Go).
+
+---
+
+## 🛡️ Cybersecurity & Pentesting (Your Specialty)
+
+As a Security Engineer, these tools are for authorized penetration testing, research, and infrastructure hardening only.
+
+* [OWASP Top 10](https://github.com/OWASP/Top10) — The standard awareness document for developers and web application security.
+* [Gitleaks](https://github.com/gitleaks/gitleaks) — Scan git repos for secrets like passwords, API keys, and tokens.
+* [SQLMap](https://github.com/sqlmapproject/sqlmap) — Automatic SQL injection and database takeover tool.
+* [Sherlock](https://github.com/sherlock-project/sherlock) — Hunt down social media accounts by username across social networks.
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) — A list of useful payloads and bypasses for Web Application Security.
+
+### 🎮 Command & Control (C2) & Remote Access
+
+* [Sliver](https://github.com/BishopFox/sliver) — A powerful, cross-platform, open-source C2 framework (the best open-source alternative to Cobalt Strike).
+* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) — The ultimate shell for hacking Windows; features lateral movement, file transfer, and memory execution.
+* [NetExec](https://www.google.com/search?q=https://github.com/PennyWise8Cracks/NetExec) — The successor to CrackMapExec; a multi-tool for automated network assessment and credential harvesting.
+* [Havoc](https://github.com/HavocFramework/Havoc) — A modern, malleable post-exploitation command and control framework.
+
+### 🤖 Botnets, Agents & AI Red Teaming
+
+* [DeepTeam](https://github.com/confident-ai/deepteam) — LLM Red Teaming framework to simulate jailbreaks and prompt injections on AI agents.
+* [Mirai (Research)](https://github.com/jgamblin/Mirai-Source-Code) — The infamous IoT botnet source code (for research and defense signature building).
+* [Cai-Framework](https://github.com/aliasrobotics/cai) — Cybersecurity AI framework for building autonomous agents that discover and exploit vulnerabilities.
+* [Honeymap](https://www.google.com/search?q=https://github.com/DinoTools/honeymap) — Real-time visualization of world-wide honeypot attacks (see the "botnet" in action).
+
+### 📡 Network Monitoring & Hidden Recon
+
+* [Bettercap](https://github.com/bettercap/bettercap) — The "Swiss Army Knife" for 802.11, BLE, and Ethernet reconnaissance and MITM attacks.
+* [RustScan](https://github.com/RustScan/RustScan) — A modern port scanner that can scan 65k ports in 3 seconds; designed for speed and scriptability.
+* [Zabbix](https://github.com/zabbix/zabbix) — Enterprise-grade monitoring that can track thousands of devices as a distributed "monitoring net."
+* [Netdata](https://github.com/netdata/netdata) — Per-second, real-time health and performance monitoring for entire distributed clusters.
+
+### 🕵️ Advanced OSINT & Data Leaks
+
+* [SpiderFoot](https://github.com/smicallef/spiderfoot) — Automates OSINT collection from over 100 public data sources for threat intelligence.
+* [Gitleaks](https://github.com/gitleaks/gitleaks) — Scan every commit in your history to find leaked API keys, tokens, and secrets.
+* [Mary-SUE](https://www.google.com/search?q=https://github.com/md8-habibullah/Mary-SUE) — *(Your Tool/Reference)* — Specialized script for harvesting username-linked data across platforms.
+* [Ciphey](https://github.com/Ciphey/Ciphey) — Fully automated decryption tool that uses AI and Natural Language Processing to crack unknown encryptions.
+
+### 💣 Exploitation & Payload Heavies
+
+* [Metasploit Framework](https://github.com/rapid7/metasploit-framework) — The world's most used penetration testing software.
+* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) — A massive library of payloads for every web vulnerability imaginable.
+* [Impacket](https://github.com/fortra/impacket) — A collection of Python classes for working with network protocols (SMB, MSRPC) — essential for Windows network hacking.
+* [Aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) — The standard for auditing wireless networks and cracking WPA/WPA2.
 
 ---
 
@@ -228,7 +335,7 @@
 
 ## 🐧 Linux & Command Line Tools
 
-A curated list of repositories to master Linux, shell scripting, and command-line tools.
+A curated list of repositories to master the Linux ecosystem, from core fundamentals to high-performance modern replacements.
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) — A comprehensive collection of tips and best practices for using the command line effectively.
 - [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) — An open-source eBook featuring 101 essential Linux commands.
@@ -243,30 +350,55 @@ A curated list of repositories to master Linux, shell scripting, and command-lin
 
 ---
 
-## 🐚 Shell Customization Tools
+#### 🎓 Mastering the Fundamentals
 
-### 🔧 Shell Frameworks & Configurations
+* [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) — A masterclass on one page: comprehensive tips and best practices for every level.
+* [tldr-pages/tldr](https://github.com/tldr-pages/tldr) — Practical, community-driven examples that replace long manual pages.
+* [bobbyiliev/101-linux-commands-ebook](https://github.com/bobbyiliev/101-linux-commands-ebook) — An essential open-source eBook for building a solid command foundation.
+* [kodekloudhub/linux-basics-course](https://github.com/kodekloudhub/linux-basics-course) — A structured path for learning shell scripting and system hierarchy.
 
-- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) – A delightful community-driven framework for managing your Zsh configuration.
-- [Bash-it](https://github.com/Bash-it/bash-it) – A collection of community Bash commands and scripts.
-- [Prezto](https://github.com/sorin-ionescu/prezto) – A speedy Zsh configuration framework.
-- [md8-habibullah/awesome-shell](https://github.com/md8-habibullah/awesome-shell) – A curated list focusing on shell style and customization.
+#### 🚀 The "Modern Unix" Power Tools (Rust-Powered)
 
-### 🎨 Prompt Themes & Enhancements
+* [eza-community/eza](https://github.com/eza-community/eza) — A modern, maintained replacement for `ls` with colors and git integration.
+* [sharkdp/bat](https://github.com/sharkdp/bat) — A `cat` clone with syntax highlighting, line numbers, and git integration.
+* [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) — A smarter `cd` command that learns your habits to help you navigate instantly.
+* [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) — The fastest text search tool (`grep` alternative) that respects your `.gitignore`.
+* [sharkdp/fd](https://github.com/sharkdp/fd) — A simple, fast, and user-friendly alternative to the `find` command.
+* [aristocratos/btop](https://github.com/aristocratos/btop) — An immersive, high-performance system monitor (the successor to `htop`).
+* [mfontanini/duf](https://www.google.com/search?q=https://github.com/mfontanini/duf) — A better `df` utility with clear, colorful graphs for disk usage.
+* [dalance/procs](https://github.com/dalance/procs) — A modern replacement for `ps` written in Rust with colored output.
 
-- [Powerlevel10k](https://github.com/romkatv/powerlevel10k) – A fast reimplementation of Powerlevel9k ZSH theme.
-- [Starship](https://starship.rs/) – A minimal, blazing-fast, and customizable prompt for any shell.
+---
 
-### 🧩 Plugins & Extensions
+### 🐚 Shell Customization & Terminal Experience
 
-- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) – Fish-like autosuggestions for Zsh.
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) – Syntax highlighting for the Zsh shell.
-- [fzf](https://github.com/junegunn/fzf) – A general-purpose command-line fuzzy finder.
+#### 💻 Terminal Emulators (The High-Performance Tier)
 
-### 🖼️ Terminal Aesthetics & Information
+* [alacritty/alacritty](https://github.com/alacritty/alacritty) — A cross-platform, GPU-accelerated terminal emulator focused on speed.
+* [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) — A modern, feature-rich, GPU-based terminal supporting images and ligatures.
+* [wez/wezterm](https://github.com/wez/wezterm) — A powerful GPU-accelerated terminal emulator and multiplexer written in Rust.
 
-- [Neofetch](https://github.com/dylanaraps/neofetch) – A command-line system information tool.
-- [Fastfetch](https://github.com/LinusDierheimer/fastfetch) – A fast, customizable system info script.
+#### 🔧 Shell Frameworks & Prompt Enhancements
+
+* [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) — The gold standard framework for managing Zsh with 300+ plugins.
+* [starship/starship](https://github.com/starship/starship) — The minimal, blazing-fast, and customizable prompt for *any* shell.
+* [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) — The fastest Zsh theme with an easy configuration wizard.
+* [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) — Fish-like completion suggestions for Zsh.
+* [Bash-it](https://github.com/Bash-it/bash-it) – A collection of community Bash commands and scripts.
+* [Prezto](https://github.com/sorin-ionescu/prezto) – A speedy Zsh configuration framework.
+* [md8-habibullah/awesome-shell](https://github.com/md8-habibullah/awesome-shell) – A curated list focusing on shell style and customization.
+
+
+#### 🖼️ Terminal Information & Aesthetics
+
+* [Neofetch](https://github.com/dylanaraps/neofetch) – A command-line system information tool.
+* [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) — A much faster and more feature-rich alternative to the original `neofetch`.
+* [junegunn/fzf](https://github.com/junegunn/fzf) — The essential command-line fuzzy finder for files, history, and git.
+* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) – Syntax highlighting for the Zsh shell.
+* [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) — A beautiful terminal UI for git commands.
+* [charmbracelet/glow](https://github.com/charmbracelet/glow) — Render markdown on the CLI with high-quality styling.
+
+---
 
 ## 🚀 Want More? Explore Further!
 
