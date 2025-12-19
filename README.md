@@ -1,4 +1,4 @@
-# 🌟 Top 200+ Open Source GitHub Repositories (Curated by Category)
+# 🌟 200+ Ultimate Open-Source Repositories: The Developer's Curated Guide [2026] --- 🚀 (Curated by Category)
 
 [![GitHub stars](https://img.shields.io/github/stars/md8-habibullah/top-github-repos-list?style=social)](https://github.com/md8-habibullah/top-github-repos-list/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/md8-habibullah/top-github-repos-list?style=social)](https://github.com/md8-habibullah/top-github-repos-list/network/members)
@@ -6,7 +6,9 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/md8-habibullah/top-github-repos-list)](https://github.com/md8-habibullah/top-github-repos-list/commits/main)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
+> **The ultimate curated collection of 200+ high-impact open-source repositories for Web Dev, DevOps, AI, and Security. Updated for 2026.**
 > **A curated, categorized, and regularly updated list of must-see open source repositories for developers, students, and tech enthusiasts.**
+> **🚀 Established in 2024 | Continuously Maintained**
 
 ---
 
