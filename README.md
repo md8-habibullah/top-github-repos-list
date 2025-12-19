@@ -7,7 +7,9 @@
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 
 > **The ultimate curated collection of 200+ high-impact open-source repositories for Web Dev, DevOps, AI, and Security. Updated for 2026.**
+
 > **A curated, categorized, and regularly updated list of must-see open source repositories for developers, students, and tech enthusiasts.**
+
 > **🚀 Established in 2024 | Continuously Maintained**
 
 ---
