@@ -79,6 +79,7 @@ This is currently the most starred category on GitHub.
 * [Claude Code](https://github.com/anthropics/claude-code) — Agentic coding tool that lives in your terminal and understands your entire codebase.
 * [Browser-use](https://github.com/browser-use/browser-use) — Open-source AI for web automation (letting AI "use" the browser).
 * [Aider](https://www.google.com/search?q=https://github.com/aider-chat/aider) — AI pair programming in your terminal.
+* [Dorothy](https://github.com/Charlie85270/Dorothy) — Open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management.
 
 ---
 
