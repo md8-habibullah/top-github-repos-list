@@ -263,7 +263,7 @@ As a Security Engineer, these tools are for authorized penetration testing, rese
 - [tmux](https://github.com/tmux/tmux) — Terminal multiplexer.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) — Fast command-line search tool.
 - [shields](https://github.com/badges/shields) — Quality metadata badges for open source projects.
-- [DevToolBox](https://github.com/yash-nandvana/dev-tool-box) — 150+ essential developer tools in one place.
+- [IT Tools](https://github.com/CorentinTh/it-tools.git) — Collection of handy online tools for developers, with great UX.
 
 ---
 
