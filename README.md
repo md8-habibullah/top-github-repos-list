@@ -80,6 +80,7 @@ This is currently the most starred category on GitHub.
 * [Browser-use](https://github.com/browser-use/browser-use) — Open-source AI for web automation (letting AI "use" the browser).
 * [Aider](https://www.google.com/search?q=https://github.com/aider-chat/aider) — AI pair programming in your terminal.
 * [Dorothy](https://github.com/Charlie85270/Dorothy) — Open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management.
+* [LoopGate Harness](https://github.com/rxdt/loopgate-harness) — Gated coding-agent loop harness for Claude, Codex, Copilot, and other CLI agents.
 
 ---
 
@@ -101,6 +102,7 @@ This is currently the most starred category on GitHub.
 - [awesome-vue](https://github.com/vuejs/awesome-vue) — Curated resources for Vue.js devs.
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) — Node.js best practices.
 - [storybook](https://github.com/storybookjs/storybook) — UI component explorer for frontend devs.
+- [LoopGate Harness](https://github.com/rxdt/loopgate-harness) — Run guarded agent loops for web projects with repo-local checks, commits, and review gates.
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) — Tips to improve your CSS skills.
 - [awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) — Resources for Tailwind CSS.
 - [md8-habibullah/jsdelivr](https://github.com/md8-habibullah/jsdelivr) — A free CDN for open source, npm, GitHub, and more.
@@ -263,6 +265,7 @@ As a Security Engineer, these tools are for authorized penetration testing, rese
 - [tmux](https://github.com/tmux/tmux) — Terminal multiplexer.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) — Fast command-line search tool.
 - [shields](https://github.com/badges/shields) — Quality metadata badges for open source projects.
+- [LoopGate Harness](https://github.com/rxdt/loopgate-harness) — Repo-native harness for autonomous coding loops with preflight checks, full gates, logs, and guarded commits.
 - [IT Tools](https://github.com/CorentinTh/it-tools.git) — Collection of handy online tools for developers, with great UX.
 
 ---
