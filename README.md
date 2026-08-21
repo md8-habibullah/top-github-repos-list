@@ -147,6 +147,7 @@ This is currently the most starred category on GitHub.
 * [Guidance](https://github.com/guidance-ai/guidance) - Control language model generation with an intuitive, constrained syntax.
 * [Instructor](https://github.com/567-labs/instructor) - Structured, typed output from LLMs with automatic validation.
 * [Pydantic AI](https://github.com/pydantic/pydantic-ai) - Type-safe agent framework built on Pydantic.
+* [Vibe-Coding Prompt Template](https://github.com/KhazP/vibe-coding-prompt-template) - Prompt workflow and CLI for turning an idea into a PRD, tech design, and AGENTS.md files for AI coding agents.
 
 ---
 
